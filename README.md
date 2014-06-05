@@ -5,7 +5,8 @@ Is simple mine sandbox to learn Dart Lang.
 
 Is not complete library or project, is only collection of testing classes organized by argument (ex. FileSystem, dart I/O...)
 
-... *** Stay tuned ***
+... 
+*** Stay tuned ***
 
 ## Contributing changes##
 
