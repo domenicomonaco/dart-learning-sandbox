@@ -5,6 +5,7 @@ void main() {
   
   //FileSytem Manager 
   FileSystemManager fsm = new FileSystemManager();
-  fsm.FileSystem("Test/SubTest/FinalTest");
   
+  fsm.mkFolderTree("Test/SubTest/FinalTest");
+  fsm.mkFolderTreeIfNoExist("Test/SubTest/FinalTest2");
 }
