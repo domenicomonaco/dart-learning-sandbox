@@ -1,4 +1,7 @@
 name: SandBox
-description: A sample command-line application
-#dev_dependencies:
-#  unittest: any
+description: A collection of simple testing classes
+dependencies:
+  angular: 0.10.0
+  shadow_dom: any
+transformers:
+- angular
