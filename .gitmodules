@@ -1,0 +1,3 @@
+[submodule "dart.angular.example"]
+	path = dart.angular.example
+	url = https://github.com/kiuz/angulardart-samples.git
