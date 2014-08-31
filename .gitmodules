@@ -1,3 +1,12 @@
 [submodule "dart.angular.example"]
 	path = dart.angular.example
 	url = https://github.com/kiuz/angulardart-samples.git
+[submodule "dart-polymer-dart-examples"]
+	path = dart-polymer-dart-examples
+	url = https://github.com/kiuz/dart-polymer-dart-examples-unmaintained.git
+[submodule "dart-samples"]
+	path = dart-samples
+	url = https://github.com/kiuz/dart-samples.git
+[submodule "dart-tutorial"]
+	path = dart-tutorial
+	url = https://github.com/kiuz/dart-tutorials-samples.git
