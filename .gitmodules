@@ -10,3 +10,6 @@
 [submodule "dart-tutorial"]
 	path = dart-tutorial
 	url = https://github.com/kiuz/dart-tutorials-samples.git
+[submodule "paper-elements"]
+	path = paper-elements
+	url = https://github.com/dart-lang/paper-elements.git
